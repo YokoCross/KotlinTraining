@@ -24,4 +24,5 @@ fun buildAquarium(){
             "length: ${myAquarium2.length} "+
             "width: ${myAquarium2.width} "+
             "Height: ${myAquarium2.height} ")
+    fishExample()
 }
